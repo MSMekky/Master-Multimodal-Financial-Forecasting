@@ -1,0 +1,8 @@
+pandas
+numpy
+yfinance
+requests
+rich
+matplotlib
+ipywidgets
+reportlab
